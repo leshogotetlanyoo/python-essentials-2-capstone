@@ -1,0 +1,6 @@
+# This project only uses Python's standard library
+# (random, os, datetime, calendar, platform, time, statistics),
+# so there are no third-party packages to install.
+#
+# If you add any external packages later, list them here, e.g.:
+# requests==2.32.3
