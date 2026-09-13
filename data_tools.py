@@ -23,19 +23,18 @@ LOG_FILE = os.path.join(DATA_DIR, "activity.log")
 
 # Deliberately messy name pool: mixed case and inconsistent spacing.
 # This simulates "real world" dirty data that has to be cleaned on load.
-_SAMPLE_NAMES = [
-    "  lisa smith",
-    "JOHN doe  ",
-    "  Mary-Anne Peters",
-    "bob JOHNSON  ",
-    "ALICE walker",
-    "  peter Pan",
-    "wendy   DARLING",
-    "  Captain Hook",
-    "tinker BELL  ",
-    "  Neo Anderson",
-    "TRINITY moss",
-    "  Ada lovelace",
+_SAMPLE_NAMES = ["Lisa Rue",
+    " John MATHEo",
+    "  Michaella Peters",
+    " Lebogang Maano  ",
+    "Andile WALKER ",
+    " Prudence Chia",
+    " Kyle Noah ",
+    " Masego Lekula ",
+    " TINKy Bell  ",
+    "  Neo Senametso ",
+    " Anele Sander ",
+    "  ADAE Moruti ",
 ]
 
 
