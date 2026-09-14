@@ -15,7 +15,7 @@ results to a file. Every stage is backed by real code, not a stub.
 
 ## 2. About this submission
 
-- **Name:** _[TETLANYO O LESHOGO]_
+- **Name:** TETLANYO LESHOGO
 - **Cohort:** 2026 DS Jan Cohort
 
 ## 3. Features
