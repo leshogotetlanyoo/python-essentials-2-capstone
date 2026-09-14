@@ -1,12 +1,5 @@
 # Concepts
 
-> **Note to self before submitting:** This file is written in the first
-> person as a draft answer key. Since the marking walkthrough asks you
-> to explain the code live and make a small change on the spot, read
-> through this alongside the actual files until you could say all of
-> it in your own words without looking. Adjust anything that doesn't
-> match how *you'd* explain it.
-
 ## Which PE2 module does each file draw on, and how?
 
 - **`models.py` — Module 3 (OOP).** Defines `Student` with `__init__`,
